@@ -29,9 +29,12 @@ samples, guidance on mobile development, and a full API reference.
 - ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/19b578a6-fe7f-4a79-a451-3603b8a5250f)
 - ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/8d66721c-6c83-411f-a94e-6ef806770f01)
 - ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/1b742369-31f3-4ada-adf7-5ded0725291b)
-
-
-
+- ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/c81847ee-e5ce-4c28-a9c9-8160e12fe7f5)
+- ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/fdb423a8-5578-4c2a-8b54-147d685ea0b0)
+- ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/639c0df7-6da2-4b6e-8a50-98b2d3f7c39c)
+- ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/3b0bfd9f-d10b-4be1-8121-3b2bf5d0a70e)
+- ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/c958a4e7-fdc7-4d3b-bd12-783ff51a433f)
+- ![image](https://github.com/HEJimGuev/UII-Act2-0493/assets/143548108/de78a19b-12f7-4669-80b0-d5b3537a25b0)
 
 
 
